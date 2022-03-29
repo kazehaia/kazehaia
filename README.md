@@ -1,13 +1,15 @@
 ### Hi there 👋❤️
-<img align="right" alt="kaze-GI" height="250" src="https://64.media.tumblr.com/2cbf804deea835f088167ac8ec5ca8f5/913e6199fe8fe007-b6/s640x960/207d850b7b235d12aa8a3fb8a297a10327bf24d6.gifv">
+<img align="right" alt="kaze-GI" height="280" src="https://64.media.tumblr.com/2cbf804deea835f088167ac8ec5ca8f5/913e6199fe8fe007-b6/s640x960/207d850b7b235d12aa8a3fb8a297a10327bf24d6.gifv">
  I'm Adinael, 
-
+ 
 I'm a Developer Front-end, with big passion in network security, penetration testing and software development.
 
-I'm currently living in Belém/PA - Brazil.
+I'm currently living in Brazil.
 
+### 🎓Academic formation:
+  - UNESA - Information System
 
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <h2>Technologies<h4>These are some of the technologies and tools that I work with:</h4></h2>
   <img align="center" alt="kaze-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="kaze-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -33,4 +35,9 @@ I'm currently living in Belém/PA - Brazil.
     <a href="https://www.instagram.com/adinael.abreu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
     <a href="https://www.youtube.com/c/AdinaelAbreu" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://www.twitch.tv/kazehaia" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-        </div>
+ 
+ ##
+ 
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=kazehaia&theme=blue-green"/>
+</div>
+
